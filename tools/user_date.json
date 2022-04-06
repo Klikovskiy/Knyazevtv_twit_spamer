@@ -1,0 +1,29 @@
+{
+    "user_1": {
+        "phone_number": "+380990866371",
+        "password": "Pong752752",
+        "security_nick": "@Pogon02665703",
+        "security_email": "nikita.centerarts@gmail.com",
+        "number_of_subscriptions": 0,
+        "last_date_use": "0",
+        "status_off": 1
+    },
+    "user_2": {
+        "phone_number": "+380953955521",
+        "password": "Was77527752",
+        "security_nick": "@Wasdon7",
+        "security_email": "-",
+        "number_of_subscriptions": 0,
+        "last_date_use": "0",
+        "status_off": 1
+    },
+    "user_3": {
+        "phone_number": "+380953955527",
+        "password": "Wor77527752",
+        "security_nick": "@Worp61939144",
+        "security_email": "-",
+        "number_of_subscriptions": 0,
+        "last_date_use": "",
+        "status_off": 0
+    }
+}
